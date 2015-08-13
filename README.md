@@ -1,5 +1,5 @@
 # ractivejs.d.ts
-This is the TypeScript definition for the incredible Ractivejs library.
+This is the TypeScript definition for the incredible __Ractive.js v0.7.3__ library.
 
 http://www.ractivejs.org/
 
