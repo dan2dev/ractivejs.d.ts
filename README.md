@@ -1,2 +1,12 @@
 # ractivejs.d.ts
-Ractive.js TypeScript DefinitelyTyped
+This is the TypeScript definition for the incredible Ractivejs library.
+
+http://www.ractivejs.org/
+
+typescript version: 1.5
+
+### Require:
+
+jquery.d.ts -> 				https://github.com/borisyankov/DefinitelyTyped/tree/master/jquery
+
+es6-promise.d.ts -> 	https://github.com/borisyankov/DefinitelyTyped/tree/master/es6-promise
